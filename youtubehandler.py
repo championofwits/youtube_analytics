@@ -115,5 +115,5 @@ def getdur(id,ytube):
 	return(respo['items'][0]['contentDetails']['duration'])
 
 
-keyy = "AIzaSyDQYim9i4xRwRCBjh64OAmTDLyuN7kbqIY"
+keyy = "AIzaSyDQYim9i4xRwRCBjh64OAmTDLyuN7kbq**"
 ytube = build('youtube','v3',developerKey = keyy)
